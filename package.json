@@ -1,0 +1,18 @@
+{
+    "name": "ufonautas",
+    "version": "0.0.0",
+    "description": "Ufonauto projektas apie HTML naudojima",
+    "main": "index.js",
+    "scripts": {
+        "dev": "dead-server --host=localhost --port=4102",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "HTML"
+    ],
+    "author": "Rimantas (https://github.com/belauzas)",
+    "license": "MIT",
+    "devDependencies": {
+        "dead-server": "^1.0.9"
+    }
+}
